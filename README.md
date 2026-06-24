@@ -4,7 +4,7 @@ This repository hosts the official Privacy Policy and Terms & Conditions pages f
 
 ## About KidTimer
 
-KidTimer is a parental control and digital wellbeing Android application designed to help parents build healthy digital habits for children by managing screen time and encouraging balanced device usage.
+KidTimer is a parental control and digital well-being Android application designed to help parents build healthy digital habits for children by managing screen time and encouraging balanced device usage.
 
 ## Features
 
@@ -30,7 +30,7 @@ Half Mind Developer
 
 ## Contact
 
-Replace with your support email address.
+halfminddeveloper@gmail.com.
 
 ## Disclaimer
 
